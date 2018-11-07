@@ -1,0 +1,15 @@
+https://communities.spt.ford.com/sites/PCF/SitePages/PCSetup.aspx
+http://wiki.ford.com/display/SDE/Tools
+https://www.youtube.com/watch?v=Lxd6JMMxuwo
+
+
+github:
+
+kchiran1	
+Sija@1330
+
+cf login --sso –a https://apps.sys-pcf02v2.cf.ford.com
+
+
+
+cf login -a api.sys.pp01.edc1.cf.ford.com -sso
